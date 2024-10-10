@@ -1,2 +1,2 @@
 # GitSec
-This repository consolidates the most relevant information on CVEs from two open sources of security artifacts: the GitHub Advisory Database and Nomisec,
+This repository consolidates the most relevant information on CVEs from two open sources of security artifacts: the GitHub Advisory Database, which is a comprehensive collection of CVEs and GitHub-originated security advisories affecting the open-source community, and Nomisec, a repository that automatically gathers and stores links to repositories containing proof-of-concept code on GitHub. Both databases are free, open-source resources created for and by the community.
